@@ -282,3 +282,7 @@ export const NAV_LINKS = [
   },
 ] as const;
 
+export const LINKS = {
+  sourceCode: "https://github.com/pavan1832/Lokpavan-Portfolio",
+} as const;
+
