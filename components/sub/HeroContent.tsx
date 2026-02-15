@@ -62,7 +62,7 @@ export default function HeroContent() {
 
         <motion.a
           variants={slideInFromLeft(1)}
-         href="/lokpavanp_Resume.pdf"
+         href="/Lokpavanp_Resume.pdf"
           download
           className="py-2 px-6 bg-purple-600 hover:bg-purple-700 transition rounded-lg text-white w-fit"
         >
