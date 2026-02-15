@@ -299,17 +299,17 @@ export const FOOTER_DATA = [
       {
         name: "LinkedIn",
         icon: RxLinkedinLogo,
-        link: "https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME",
+        link: "https://www.linkedin.com/in/lokpavan-p-931a60292/",
       },
       {
         name: "GitHub",
         icon: RxGithubLogo,
-        link: "https://github.com/YOUR_GITHUB_USERNAME",
+        link: "https://github.com/pavan1832",
       },
       {
         name: "LeetCode",
         icon: SiLeetcode,
-        link: "https://leetcode.com/YOUR_LEETCODE_USERNAME",
+        link: "https://leetcode.com/u/lokpavan183/",
       },
     ],
   },
